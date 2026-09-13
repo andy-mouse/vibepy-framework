@@ -1,6 +1,6 @@
 # ADR-042: The package folder is chosen with the operating system's folder dialog
 
-Status: Proposed
+Status: Accepted
 
 ## Context
 
